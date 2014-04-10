@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<university name="GuilinUniversityOfElectronicTechnology">  
+    <college name="yingyongkejixueyuan">  
+        <class name="101">  
+            <student name="wangyun" sex='male' age="21" />  
+            <student name="mengkeer" sex='male' age="20" />  
+            <student name="panzishu" sex='female' age="20" />  
+        </class>  
+        <class name="102">  
+            <student name="xanthodont" sex='male' age="20" />  
+            <student name="jinn" sex='male' age="20" />  
+            <student name="qinzili" sex='female' age="21" />  
+        </class>  
+    </college>  
+    <college name="sanyuan">  
+        <class name="101">  
+            <student name="liuhongbo" sex='male' age="29" />  
+        </class>  
+    </college>  
+    <college name="siyuan">  
+    </college>  
+</university>  
